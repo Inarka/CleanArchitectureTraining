@@ -1,0 +1,12 @@
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.deps.json
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\refint\BuberDinner.Application.dll
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Application\obj\Debug\net6.0\ref\BuberDinner.Application.dll
