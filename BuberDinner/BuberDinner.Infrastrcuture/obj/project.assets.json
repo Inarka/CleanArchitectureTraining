@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BuberDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        }
+      },
+      "BuberDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BuberDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Application/BuberDinner.Application.csproj",
+      "msbuildProject": "../BuberDinner.Application/BuberDinner.Application.csproj"
+    },
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BuberDinner.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\baby_\\.nuget\\packages\\": {}
@@ -13,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baby_\\source\\repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\BuberDinner.Infrastrcuture.csproj",
+      "projectUniqueName": "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\BuberDinner.Infrastrcuture.csproj",
       "projectName": "BuberDinner.Infrastrcuture",
-      "projectPath": "C:\\Users\\baby_\\source\\repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\BuberDinner.Infrastrcuture.csproj",
+      "projectPath": "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\BuberDinner.Infrastrcuture.csproj",
       "packagesPath": "C:\\Users\\baby_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baby_\\source\\repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\obj\\",
+      "outputPath": "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Infrastrcuture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baby_\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

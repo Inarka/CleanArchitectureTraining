@@ -25,3 +25,11 @@ C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Ap
 C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.pdb
 C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\BuberDinner.Api.genruntimeconfig.cache
 C:\Users\baby_\source\repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\obj\Debug\net6.0\ref\BuberDinner.Api.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contracts.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastrcuture.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Application.pdb
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastrcuture.pdb
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb

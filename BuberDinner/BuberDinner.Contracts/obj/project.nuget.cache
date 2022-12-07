@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5ruTRd7x5Xfo8riCMsH68X/KIsdwDZSmB1V4SN+J9q2cyiyBAgnDKPcN2GMU4fTMDajLiyEAtSWSuIl4d3Lvw==",
+  "dgSpecHash": "d9ZehJHNinwJPkY/eVr/1XHrX5tWTBCTrjbbfV0xqdcEuJ/di/hfTNum3EYZzgtcwXIHqAyOVS0Sc+d1nUuNSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\baby_\\source\\repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\baby_\\Source\\Repos\\CleanArchitectureTraining\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
