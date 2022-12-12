@@ -29,3 +29,14 @@ C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Ap
 C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Infrastrcuture.pdb
 C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\BuberDinner.Domain.pdb
 C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\baby_\Source\Repos\CleanArchitectureTraining\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
